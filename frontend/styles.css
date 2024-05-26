@@ -687,6 +687,7 @@ button:hover {
 .copyright {
   display: block;
   margin-top: 10px;
+  font-size: 0.8rem;
 }
 
 /* CONTACT RESPONSIVE */
