@@ -812,10 +812,9 @@ a {
 .client-comment p {
   font-size: 1rem;
   color: var(--secondary-color);
- 
 }
 
-  #testimonials p {
+  #testimonials .review-p {
     text-align: center;
     opacity: 70%;
   }
@@ -983,7 +982,7 @@ label.fas.fa-star {
     width: 250px;
   }
   
-  #testimonials p {
+  #testimonials .review-p {
     margin: 0 3rem;
     padding: 10px;
   }
